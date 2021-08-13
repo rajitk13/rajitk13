@@ -28,8 +28,11 @@
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy">
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="coursera">
   <h3>Some Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=rajitk13" alt="stat1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajitk13" alt="stat2">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajitk13&show_icons=true&theme=dark" width=50% alt="stat1">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajitk13&layout=compact&theme=dark" width=50% alt="stat2">
+  <h3>Visitor Count</h3>
+  <img src="https://komarev.com/ghpvc/?username=rajitk13&color=green">
   <pre>
 ___________.__                      __                  _____                        .__         .__   __   .__
 \__    ___/|  |__  _____     ____  |  | __  ______    _/ ____\____ _______    ___  __|__|  ______|__|_/  |_ |__|  ____    ____
