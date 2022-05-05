@@ -1,6 +1,6 @@
 <!--Adding header -->
+![social-banner](https://user-images.githubusercontent.com/73546886/166986098-0ce7b63d-f0ab-4abf-b9a2-f46ba2521245.jpg)
 
-<img src="https://github.com/rajitk13/rajitk13/blob/main/header.png?raw=true">
 <!-- Adding Socials link -->
 <div>
   <h3>Socials</h3>
