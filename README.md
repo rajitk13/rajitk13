@@ -104,20 +104,10 @@ I'm driven by solving complex problems and delivering high-quality, production-r
 
 ---
 
-## 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajitk13&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=79C0FF" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajitk13&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=rajitk13&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=79C0FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-
----
-
 ## 🏆 Achievements & Certifications
 
 - **Spot Award Holder (Zscaler)** - Recognized for driving innovation and excellence in engineering
 - **Open Source Maintainer** - Building [Shiro](https://github.com/rajitk13/shiro-automation) - AI-Native CI Workflow Runtime for automation tools
-- **Continuous Learning** - Active learner on Udemy and Coursera
 
 ---
 
